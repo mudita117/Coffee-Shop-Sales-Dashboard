@@ -129,4 +129,4 @@ Analyzes ordering pattern from Sunday → Saturday
 
 ## 🖼️ Dashboard Preview
 
-!()
+![Dashboard](https://github.com/mudita117/Coffee-Shop-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
